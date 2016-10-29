@@ -16,8 +16,8 @@ import se.emilsjolander.stickylistheaders.StickyListHeadersAdapter;
 
 /**
  * @author Jery.wei
- * @Ê±¼ä    2016Äê8ÔÂ26ÈÕ/ÏÂÎç5:21:36
- * @ÎÄ¼şÀà   TestBaseAdapter.java
+ * @Ê±ï¿½ï¿½    2016ï¿½ï¿½8ï¿½ï¿½26ï¿½ï¿½/ï¿½ï¿½ï¿½ï¿½5:21:36
+ * @ï¿½Ä¼ï¿½ï¿½ï¿½   TestBaseAdapter.java
  */
 public class TimelineAdapter extends BaseAdapter implements
 StickyListHeadersAdapter, SectionIndexer{
